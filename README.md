@@ -1,2 +1,2 @@
 # double.py
-Python version of MatLab double()
+I encountered many problems on converting matlab codes to python. This function is reproduce of double() function in MatLab.
